@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1 {
+  text-align: center;
+  /* padding-bottom: 19px; */
+}
+.control-group{
+  text-align: center;
+}
+input{
+  padding: 6px 200px;
+  margin-left: 30px;
+}
+label{
+  font-size: 20px;
+}
+button{
+  font-size: 20px;
+  padding: 10px 20px;
+}
+.canchinh{
+  width: 88%;
+  margin: auto;
+}
+img{
+  width: 40%;
+  cursor: pointer;
+}
+input{
+  width: 100%;
+}
+.tieude{
+  color:#1a3556c2;
+}
+.form-groupAdd{
+  margin-left: 90%;
+  margin-bottom: 16px;
+}
+.form-groupSend{
+  margin-left: 50%;;
+}
+.react-datepicker__input-container {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 10px;
+  width: 132% !important;
+}
+img{
+  width: 40%;
+  cursor: pointer;
+}
